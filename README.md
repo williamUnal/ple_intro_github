@@ -1,3 +1,3 @@
-# introduccion
+# Introduccion
 
-este es un ejercicio de introduccion a GitHub del curso PLE 2025-1
+Este es un ejercicio de introduccion a GitHub del curso PLE 2025-1
